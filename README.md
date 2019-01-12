@@ -2,6 +2,10 @@
 (Backend) WarsawJS Workshop #28: Projekt aplikacji PWA do listowania długów wobec innych.
 
 ## Testowanie
+Odpalanie:
+```
+json-server --watch db.json
+```
 GET:
 ```
 fetch('http://localhost:3000/debts/')
