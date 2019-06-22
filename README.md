@@ -1,5 +1,5 @@
-# warsawjs-workshop-28-collector-pwa-backend
-(Backend) WarsawJS Workshop #28: Projekt aplikacji PWA do listowania długów wobec innych.
+# warsawjs-workshop-33-collector-backend
+(Backend) WarsawJS Workshop #33: Projekt aplikacji w Vue.js do listowania długów wobec innych.
 
 ## Testowanie
 Odpalanie:
